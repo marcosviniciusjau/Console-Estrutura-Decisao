@@ -1,0 +1,13 @@
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\bin\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.exe
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\bin\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.deps.json
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\bin\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.runtimeconfig.json
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\bin\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.runtimeconfig.dev.json
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\bin\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.dll
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\bin\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.pdb
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\obj\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.csprojAssemblyReference.cache
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\obj\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.AssemblyInfoInputs.cache
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\obj\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.AssemblyInfo.cs
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\obj\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\obj\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.dll
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\obj\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.pdb
+C:\Dev\App\2021\EstruturaDecisao\EtecDsEstruturaRepeticao\EtecDsEstruturaRepeticao\obj\Debug\netcoreapp3.1\EtecDsEstruturaRepeticao.genruntimeconfig.cache
